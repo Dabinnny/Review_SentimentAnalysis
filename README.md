@@ -2,7 +2,7 @@
 
 ### ✔️ 프로젝트 주제  
 
-![]('https://github.com/Dabinnny/Review_Sentiment_Analysis/blob/main/img/img1.png?raw=true')
+![img1](https://github.com/Dabinnny/Review_Sentiment_Analysis/blob/main/img/img1.png?raw=true)
 
 - 코로나 이후 여행장소 측면에서 소비자들의 관심이 가장 크게 높아진 곳은 호텔(호캉스)이며, 이는 대표적인 언택트(비대면)  
 여행 장소로 각광받고 있는 추세이다.  
@@ -13,9 +13,8 @@
 
 
 1. 데이터 수집  
-<div align="center">
+
 ![](img/img2.png)
-</div>
 
 - 호텔예약플랫폼 이용률 1위 '야놀자' 활용 서울,인천송도의 주요 호텔 11곳에 대한 리뷰데이터(22921개) Crawling 진행  
 - 호텔명, 리뷰텍스트, 리뷰작성일 추출
