@@ -36,3 +36,15 @@
 - 정규표현식 적용(특수문자, 한글자 자모음, 개행문자, 이모티콘 제거)
 
 <div align="center"><img src="https://user-images.githubusercontent.com/90162819/159422915-0b1c5dd4-1c0b-42a7-9683-40488b16727e.png" width="400"></div>
+
+ </br> 
+
+### **3. koBERT 모델학습**
+
+- Accuracy : Train_set (0.881) , Test_set(0.815)
+
+ </br> 
+
+### **4. 새 문장 Test 결과**
+
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159429040-f303ed1b-2e5b-4780-90d7-e17c8c0d83a4.png" width="500"></div>
