@@ -39,12 +39,17 @@
 
  </br> 
 
-### **3. koBERT 모델학습**
+### **3. koBERT 모델 학습**
 
-- Accuracy : Train_set (0.881) , Test_set(0.815)
+- **Accuracy : 0.941**
+- Comment 
+   - 직접 Crawling한 데이터 기반이다 보니 데이터 클래스 불균형 발생 (긍정/부정 비율 3:1)
+   - TextAttack Augmentation을 활용해 클래스 불균형 조정 <span style="color:#808080">*(추가 보완 필요)*</span>
 
  </br> 
 
-### **4. 새 문장 Test 결과**
+### **4. 새로운 Review Test 결과**
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159429040-f303ed1b-2e5b-4780-90d7-e17c8c0d83a4.png" width="500"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159439428-aa518796-121a-4914-bed0-db0afed7d04f.png" width="500"></div>
+
+
