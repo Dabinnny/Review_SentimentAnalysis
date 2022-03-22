@@ -1,4 +1,8 @@
-# Hotel_Review_Sentiment_Analysis(koBERT)
+# Hotel_Review_Sentiment_Analysis(koBERT)  
+
+- 호텔예약사이트 기반 리뷰데이터 감성분석 모델(koBERT)
+
+</br> 
 
 ## ✔️ 프로젝트 주제  
 <div align="center">
