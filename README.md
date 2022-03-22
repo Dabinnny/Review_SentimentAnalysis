@@ -50,6 +50,6 @@
 
 ### **4. 새로운 Review Test 결과**
 
-<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159439428-aa518796-121a-4914-bed0-db0afed7d04f.png" width="500"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/90162819/159439428-aa518796-121a-4914-bed0-db0afed7d04f.png" width="600"></div>
 
 
